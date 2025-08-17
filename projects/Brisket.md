@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/Brisket.png
 title: "Brisket"
 date: 2025-06-01
 published: true
