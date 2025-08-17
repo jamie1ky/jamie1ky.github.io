@@ -1,26 +1,24 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "name": "Jamie Southworth",
+    "label": "IT Professional",
+    "picture": "https://github.com/jamie1ky.png",
+    "email": "jamie1ky@gmail.com",
+    "phone": "859-321-4128",
+    "website": "https://jamie1ky.github.io",
+    "summary": "IT Professional with 20 years of experience in desktop support, training, and system administration. Skilled in troubleshooting, software deployment, and user education, with certifications including Microsoft Certified IT Professional, A+, and Network+. Known for being personable, reliable, and compassionate, with a proven ability to bridge technology and people.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "jamie1ky", "url": "http://github.com/changeme" },
+      { "network": "linkedin", "username": "jamie1ky", "url": "http://linkedin.com/in/changeme" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Technology" },
+    { "name": "Cooking" },
+    { "name": "Automotive Repair" },
+    { "name": "Philosopy" },
+    { "name": "Gardening" }
   ],
   "skills": [
     {
