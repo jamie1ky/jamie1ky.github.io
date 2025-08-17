@@ -9,7 +9,7 @@ labels:
   - BBQ
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="..img/Brisket.png">
+<img width="459px" class="rounded float-start pe-4" src="..img/Brisket.png">
 
 *Why do so many people have trouble cooking brisket*
 
