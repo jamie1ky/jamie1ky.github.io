@@ -7,7 +7,7 @@ date: 2025-06-01
 published: true
 labels:
   - Educational
-  - HTMAL
+  - HTML
   - CSS
 summary: "I built a BBQ website as part of my System Design class, taking the idea from concept to a working site. Starting with limited coding experience, I learned HTML, CSS, and GitHub version control while designing pages that cover brisket prep, cooking, and serving. Along the way I created diagrams, documented requirements, and overcame challenges with styling, file paths, and deployment. The project not only taught me technical skills but also gave me confidence in managing a full development cycle."
 ---
