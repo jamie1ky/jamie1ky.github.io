@@ -19,7 +19,6 @@
       { "network": "LinkedIn", "username": "jamie1ky", "url": "https://www.linkedin.com/in/jamie-southworth-086a1461/" }
     ]
   },
-
   "work": [
     {
       "company": "Sullivan University",
@@ -42,12 +41,11 @@
       "summary": "Provided frontline IT helpdesk support in a high-volume corporate environment.",
       "highlights": [
         "Provided phone and remote support; completed assigned tickets with precision and clear documentation.",
-        "Troubleshot hardware/software systems and contributed to an upgrade of ~1,000 machines.",
+        "Troubleshot hardware/software systems and contributed to an upgrade of approximately 1,000 machines.",
         "Fielded 30–40 calls daily, maintaining efficiency and quality in a fast-paced environment."
       ]
     }
   ],
-
   "education": [
     {
       "institution": "Sullivan University",
@@ -57,13 +55,11 @@
       "endDate": "2015-06-01"
     }
   ],
-
   "certificates": [
-    { "name": "Microsoft Certified Professional / MCSA / MCITP / MCTS" },
+    { "name": "Microsoft Certified Professional (MCP) / MCSA / MCITP / MCTS" },
     { "name": "CompTIA A+" },
     { "name": "CompTIA Network+" }
   ],
-
   "skills": [
     {
       "name": "Languages & Frameworks",
@@ -78,7 +74,6 @@
       "keywords": ["Desktop Support", "Troubleshooting", "Ticketing Systems", "User Training", "Documentation", "Preventive Maintenance", "Vendor Coordination"]
     }
   ],
-
   "interests": [
     { "name": "Technology" },
     { "name": "Cooking" },
@@ -86,7 +81,6 @@
     { "name": "Philosophy" },
     { "name": "Gardening" }
   ],
-
   "references": [
     { "name": "Available upon request" }
   ]
