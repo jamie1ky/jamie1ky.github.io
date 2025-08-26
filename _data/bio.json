@@ -7,12 +7,78 @@
     "phone": "859-321-4128",
     "website": "https://jamie1ky.github.io",
     "summary": "IT Professional with 20+ years of experience in desktop support, training, and system administration. Skilled in troubleshooting, software deployment, and user education, with certifications including Microsoft Certified IT Professional, A+, and Network+. Known for being personable, reliable, and compassionate, with a proven ability to bridge technology and people.",
-    "location": { "address": "", "postalCode": "40324", "city": "Georgetown", "countryCode": "USA", "region": "Kentucky" },
+    "location": {
+      "address": "1692 Stamping Ground Road",
+      "postalCode": "40324",
+      "city": "Georgetown",
+      "region": "Kentucky",
+      "countryCode": "US"
+    },
     "profiles": [
-      { "network": "github", "username": "jamie1ky", "url": "https://github.com/jamie1ky" },
-      { "network": "linkedin", "username": "jamie1ky", "url": "https://www.linkedin.com/in/jamie-southworth-086a1461/" }
+      { "network": "GitHub", "username": "jamie1ky", "url": "https://github.com/jamie1ky" },
+      { "network": "LinkedIn", "username": "jamie1ky", "url": "https://www.linkedin.com/in/jamie-southworth-086a1461/" }
     ]
   },
+
+  "work": [
+    {
+      "company": "Sullivan University",
+      "position": "Support Services Technician",
+      "startDate": "2009-05-01",
+      "summary": "Over a decade of technical support and training, ensuring smooth operation of hardware/software systems across campuses.",
+      "highlights": [
+        "Delivered comprehensive technical support and training across computers, mobile devices, and various tech products.",
+        "Managed ticketing systems: delegated/handled tickets, ensured proper routing, timely completion, and thorough documentation.",
+        "Led training sessions for Office 365 email functions across multiple campuses.",
+        "Collaborated with software and hardware vendors to evaluate and discuss technology products.",
+        "Performed preventive maintenance, testing, and repair to ensure equipment reliability in a dynamic environment."
+      ]
+    },
+    {
+      "company": "Toyota Motor Manufacturing, Kentucky",
+      "position": "IT Support Helpdesk",
+      "startDate": "2006-12-01",
+      "endDate": "2009-05-01",
+      "summary": "Provided frontline IT helpdesk support in a high-volume corporate environment.",
+      "highlights": [
+        "Provided phone and remote support; completed assigned tickets with precision and clear documentation.",
+        "Troubleshot hardware/software systems and contributed to an upgrade of ~1,000 machines.",
+        "Fielded 30–40 calls daily, maintaining efficiency and quality in a fast-paced environment."
+      ]
+    }
+  ],
+
+  "education": [
+    {
+      "institution": "Sullivan University",
+      "area": "System Support and Administration",
+      "studyType": "Certificate",
+      "startDate": "2013-09-01",
+      "endDate": "2015-06-01"
+    }
+  ],
+
+  "certificates": [
+    { "name": "Microsoft Certified Professional / MCSA / MCITP / MCTS" },
+    { "name": "CompTIA A+" },
+    { "name": "CompTIA Network+" }
+  ],
+
+  "skills": [
+    {
+      "name": "Languages & Frameworks",
+      "keywords": ["HTML", "CSS", "C#", "SQL"]
+    },
+    {
+      "name": "Toolsets / OS",
+      "keywords": ["Windows", "macOS", "Git/GitHub", "MySQL", "Office 365"]
+    },
+    {
+      "name": "Support & Administration",
+      "keywords": ["Desktop Support", "Troubleshooting", "Ticketing Systems", "User Training", "Documentation", "Preventive Maintenance", "Vendor Coordination"]
+    }
+  ],
+
   "interests": [
     { "name": "Technology" },
     { "name": "Cooking" },
@@ -20,40 +86,8 @@
     { "name": "Philosophy" },
     { "name": "Gardening" }
   ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "keywords": [ "HTML", "CSS", "C#", "SQL" ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Windows", "Git/GitHub", "MySQL" ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "Sullivan University",
-      "area": "Computer Science",
-      "studyType": "A.S.",
-      "startDate": "2013-09-01",
-      "endDate": "2025-12-01",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "Sullivan University",
-      "position": "IT Support Services",
-      "website": "jsouthworth@sullivan.edu",
-      "startDate": "2009-04-26",
-      "endDate": "Present",
-      "summary": "Local hardware and software support"
-    }
-  ],
+
   "references": [
-    {
-      "name": "Available upon request"
-    }
+    { "name": "Available upon request" }
   ]
 }
