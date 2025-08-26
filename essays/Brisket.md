@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: essay
 title: "iPhone vs. Android"
 date: 2024-07-28
 permalink: /essays/iphone-vs-android/
