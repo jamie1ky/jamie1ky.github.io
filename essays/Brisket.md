@@ -4,11 +4,6 @@ title: "iPhone vs. Android"
 date: 2024-07-28
 permalink: /essays/iphone-vs-android/
 published: true
-labels:
-  - Essay
-  - ENG 101
-  - Compare & Contrast
-summary: "A comparison of iPhone and Android focused on UI, customization, and ecosystem integration—arguing for iPhone’s simplicity."
 ---
 
 **Author:** Jamie Southworth  
@@ -38,5 +33,5 @@ Ultimately, the choice between an iPhone and an Android device depends on your p
 
 ### References
 
-- Consumer Reports. (2012). Android vs. iPhone. *Consumer Reports*, 32–33.  
+- Consumer Reports. (2012). *Android vs. iPhone*. *Consumer Reports*, 32–33.  
 - Vaughn-Nichols, S. J. (2022). *iPhone vs. Android: How to choose the best smartphone for you*. *Computerworld*.
