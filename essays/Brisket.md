@@ -1,17 +1,15 @@
 ---
 layout: essay
 type: essay
-title: "Brisket Difficulties"
+title: "iPhone vs Droid"
 # All dates must be YYYY-MM-DD format!
-date: 2025-06-06
+date: 2024-07-28
 published: true
 labels:
-  - BBQ
+  - iPhone vs Droid
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
-
-*Why do so many people have trouble cooking brisket*
+*iPhone vs Android*
 
 Cooking brisket has a reputation for being one of the most challenging tasks in the world of barbecue, and many people struggle to get it right. The difficulty begins with the cut of meat itself. Brisket comes from the chest of the cow, an area that supports a lot of weight and movement. Because of this, it is filled with dense muscle fibers, connective tissue, and collagen. These characteristics make the meat tough if not cooked properly, requiring patience and the right technique to transform it into something tender and flavorful.
 
