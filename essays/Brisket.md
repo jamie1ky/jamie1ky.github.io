@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "Brisket Difficulties"
+title: "iPhone VS Android"
 # All dates must be YYYY-MM-DD format!
-date: 2025-06-06
+date: 2024-07-28
 published: true
 labels:
   - BBQ
